@@ -87,8 +87,9 @@ button:hover {
 }
 
 @media(min-width:350px) and (max-width:767px) {
-    .downimgs {
-        margin-left: 130px;
+     .downimgs {
+        margin-left: 20px;
+        text-align: center;
     }
     .downimgs img {
         margin-right: 20px;
